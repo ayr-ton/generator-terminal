@@ -1,0 +1,21 @@
+{
+  "name": "generator-terminal",
+  "version": "1.0.0",
+  "description": "A fake terminal to create a fun page and release the hacker inside you",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayr-ton/generator-terminal.git"
+  },
+  "keywords": [
+    "terminal",
+    "superuser",
+    "portfolio",
+    "hacker"
+  ],
+  "author": "Ayrton Araujo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ayr-ton/generator-terminal/issues"
+  },
+  "homepage": "https://github.com/ayr-ton/generator-terminal#readme"
+}
